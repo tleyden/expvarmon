@@ -1,3 +1,5 @@
+[![Build Status](https://drone.io/github.com/tleyden/expvarmon/status.png)](https://drone.io/github.com/tleyden/expvarmon/latest)
+
 # Installation
 
 For OSX and Windows (64-bit only), just [download the binary](https://github.com/zgramana/expvarmon/releases/download/0.1/expvarmon).
